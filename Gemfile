@@ -2,4 +2,4 @@
 
 source 'https://rubygems.org'
 
-gem "fastlane", "2.217.0"
+gem "emoji_regex", "3.2.2"
